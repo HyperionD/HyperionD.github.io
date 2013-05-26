@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>HyperionD (python)</title><link>http://hyperiond-blog.appspot.com</link><description>正为鸥盟留醉眼，细看涛生云灭</description><lastBuildDate>Sun, 26 May 2013 22:53:06 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>python比较两个文件内容是否相同</title><link>http://hyperiond-blog.appspot.com/posts/pythonbi-jiao-liang-ge-wen-jian-nei-rong-shi-fou-xiang-tong.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;使用标准库中的filecmp模块：&lt;/p&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;import&lt;/span&gt; &lt;span class="n"&gt;filecmp&lt;/span&gt;
-&lt;span class="n"&gt;filecmp&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;cmp&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;f1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;f2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;f1,f2为要比较的两个文件的路径。&lt;/p&gt;
-&lt;p&gt;更多详情：&lt;a href="http://docs.python.org/2/library/filecmp.html"&gt;filecmp模块文档&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://hyperiond-blog.appspot.com/posts/pythonbi-jiao-liang-ge-wen-jian-nei-rong-shi-fou-xiang-tong.html</guid><pubDate>Sun, 26 May 2013 19:56:12 GMT</pubDate></item></channel></rss>
